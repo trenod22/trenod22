@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trenod22
 - 👀 I’m interested in Physics
 - 🤯 I know C.
-- 🌱 I’m currently learning JAVA, HTML, CSS
+- 🌱 I’m currently learning JAVA, HTML, CSS, JS
 
 
 <!---
